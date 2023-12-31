@@ -1,0 +1,50 @@
+# DataType Output: str
+X = "Hello Word"
+
+# DataType Output: int
+# = 50
+
+# DataType Output: float
+X= 60.5
+
+# DataType Output: Complex
+X = 3j
+
+# DataType Output: Complex
+X = 3j
+
+# DataType Output: list
+X = ["geeks", "for" "geeks"]
+
+# DataType Output: tuple
+# = ("geeks", "for", "geeks")
+
+# DataType Output: range
+x = range(10)
+
+# DataType Output: dic
+X = {"geeks", "for", "geeks"}
+
+# DataType Output set
+X = frozenset({"geeks", "for", "geeks"})
+
+# DataType Output: bool
+X = True
+
+# DataType Output: bool
+X = True
+
+# DataType output: bool
+X = True
+
+# DataType Output: bytes
+X = "Greeks"
+
+# DataType Output: byte
+X bytearray (4)
+
+# DataType Output: memoryview
+X = memoryview (bytes (6))
+
+# DataType Output: NonType
+X = None
