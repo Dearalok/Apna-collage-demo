@@ -1,0 +1,7 @@
+# Single Line Comment
+
+# Python program to demonstrate
+#multiline comments"""
+
+name = "greeksforgreeks"
+print (name)
