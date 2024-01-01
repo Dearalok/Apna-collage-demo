@@ -1,0 +1,24 @@
+<! DOCTYPE html>
+<html> 
+
+    <!-- Head Selection content -->
+    <head>
+
+          <!-- Page title -->
+          <title>Basic Web Page</title>
+          </head>
+
+          <!-- Body section content -->
+          <Body>
+
+          <!-- Used Selection content -->
+          <body>
+
+          <!-- Used to display heading content -->
+          <h1>Welcome to GeeksforGeeks</h1>
+
+          <!-- Used to display program content -->
+          <p> A computer science portal for geeks for geeks </p>
+          </body>
+
+          </html>
